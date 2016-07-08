@@ -6,4 +6,8 @@ function move(){
  	alert(e);
  }
 
+ function(e){
+ 	alert(e+'123');
+ }
+
 }
